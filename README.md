@@ -4,3 +4,5 @@
  What you have to do is to delete the resources for the the game which are in the main game directory and copy paste the resources from here to the Game directory.
  Enjoy the Game!!
 
+# Requirements
+ Internet Connection may be needed. 
